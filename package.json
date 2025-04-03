@@ -1,5 +1,5 @@
 {
-    "name": "my-packge",
+    "name": "@JGNGWork/my-package",
     "version": "1.0.0",
     "description": "\"my demo package\"",
     "main": "index.js",
