@@ -10,6 +10,6 @@
     "publishConfig": {
         "registry": "https://npm.pkg.github.com"
     },
-    "author": "-JG-",
+    "author": "JG",
     "license": "ISC"
 }
